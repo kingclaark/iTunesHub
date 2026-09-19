@@ -1,6 +1,6 @@
 # iTunesHub
 
-A retro-styled script hub with UI inspired by OS X iTunes era.
+A retro-styled script hub with UI inspired by macOS.
 
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/6ddXuNk2Hu)](https://discord.gg/6ddXuNk2Hu)
 
